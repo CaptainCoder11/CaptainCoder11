@@ -4,7 +4,7 @@
 
 
 #### Welcome to my GitHub profile 🥰
--👩‍💻 I’m Ruchit, a tech enthusiast and Full Stack Developer
+-🧑‍💻 I’m Ruchit, a tech enthusiast and Full Stack Developer
 <br/>
 -✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 <br/>
@@ -39,6 +39,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://simpleicons.org/icons/adobexd.svg"></code>
 <br/>
+<br/>
+
 
 **Frameworks:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -46,6 +48,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+<br/>
 
 
 <br/>
