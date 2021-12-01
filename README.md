@@ -54,7 +54,7 @@
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=captaincoder11" alt="captainthedev"/> 
-<a href="https://github.com/sushmithas99"><img src="https://img.shields.io/github/stars/captaincoder11?color=blue&style=flat-box&logo=github" alt="Github stars"/></a>
+<a href="https://github.com/Captaincoder11"><img src="https://img.shields.io/github/stars/captaincoder11?color=blue&style=flat-box&logo=github" alt="Github stars"/></a>
 
 <details>
      <br/>
