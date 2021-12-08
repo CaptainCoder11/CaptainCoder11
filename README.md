@@ -52,6 +52,9 @@
 <br/>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <br/>
 <img src="https://komarev.com/ghpvc/?username=captaincoder11" alt="captainthedev"/> 
 <a href="https://github.com/Captaincoder11"><img src="https://img.shields.io/github/stars/captaincoder11?color=blue&style=flat-box&logo=github" alt="Github stars"/></a>
