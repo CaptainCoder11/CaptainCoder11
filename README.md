@@ -52,7 +52,7 @@
 <br/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=blue)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br/>
