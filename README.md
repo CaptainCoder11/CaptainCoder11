@@ -63,7 +63,7 @@
      <br/>
 <summary>⚡ Pined Repositories</summary>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captaincoder11&repo=Portfolio&show_icons=true&theme=shades-of-purple)](https://github.com/CaptainCoder11/Portfolio-next)     
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captaincoder11&repo=Portfolio-next&show_icons=true&theme=shades-of-purple)](https://github.com/CaptainCoder11/Portfolio-next)     
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captaincoder11&repo=TicTacToe&show_icons=true&theme=shades-of-purple)](https://github.com/CaptainCoder11/TicTacToe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captaincoder11&repo=MarvelMusicPlayer&show_icons=true&theme=shades-of-purple)](https://github.com/CaptainCoder11/MarvelMusicPlayer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captaincoder11&repo=Segmented-Progress-Bar&show_icons=true&theme=shades-of-purple)](https://github.com/CaptainCoder11/Segmented-Progress-Bar)
